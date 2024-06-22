@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.36.0
 tensorflow
 numpy
 pandas
 matplotlib
 scikit-learn
-cv2
-PIL
+opencv-python
+Pillow
 streamlit_drawable_canvas
